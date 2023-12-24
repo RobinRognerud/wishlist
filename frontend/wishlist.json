@@ -1,0 +1,33 @@
+{
+  "wishes": [
+    {
+      "id": 1,
+      "title": "Remarkable",
+      "link": "https://www.remarkable.com",
+      "description": "En digital notatblokk som kan kobles til nett",
+      "image": "images/remarkable.jpg"
+    },
+
+    {
+      "id": 2,
+      "title": "Oakley Sutro",
+      "link": "https://www.oakley.com/no-no/product/W0OO9406?variant=888392471710&size=XL",
+      "description": "Oakley Sutro solbriller",
+      "image": "images/oakley-sutro.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Db Essential",
+      "link": "https://www.antonsport.no/db-438-essential-backpack-17l-p22872/n01-black-out-17l-v163191",
+      "description": "Douchebag Essential 17l",
+      "image": "images/db_essential.png"
+    },
+    {
+      "id": 4,
+      "title": "Bokser",
+      "link": "https://www.antonsport.no/db-438-essential-backpack-17l-p22872/n01-black-out-17l-v163191",
+      "description": "Douchebag Essential 17l",
+      "image": "images/db_essential.png"
+    }
+  ]
+}
